@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dakshesh1
-- 👀 I’m interested in Machine Learning and web development
-- 🌱 I’m currently learning Web devolopment and android development
+- 👀 I’m interested in Machine Learning and app development
+- 🌱 I’m currently learning Artificial Intelligence and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Insta - @dakshesh.tiwari or email - daksheshtiwari30@gmail.com or discord - Fr0styyyy#4717
 
